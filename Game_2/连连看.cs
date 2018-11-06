@@ -187,7 +187,7 @@ namespace Game_2
         private void timer1_Tick(object sender, EventArgs e)
         {
             time++;
-            label2.Text = "time:" + time / 10.0;
+            //label2.Text = "time:" + time / 10.0;
             if (jishu==0)
             {
                 timer1.Enabled = false;
