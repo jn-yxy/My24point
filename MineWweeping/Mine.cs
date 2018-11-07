@@ -12,9 +12,9 @@ using System.Collections;
 
 namespace MineWweeping
 {
-    public partial class Form1 : Form
+    public partial class Mine : Form
     {
-        public Form1()
+        public Mine()
         {
             InitializeComponent();
 
@@ -182,7 +182,7 @@ namespace MineWweeping
                         {
                             continue;
                         }
-                        if ((qp.X + i >= 0) && (qp.X + i < Form1.x) && (qp.Y + j >= 0) && (qp.Y + j < Form1.y))
+                        if ((qp.X + i >= 0) && (qp.X + i < Mine.x) && (qp.Y + j >= 0) && (qp.Y + j < Mine.y))
                         {
                             if (MineMap[qp.X + i, qp.Y + j] == 1)
                             {
@@ -203,21 +203,21 @@ namespace MineWweeping
                 if (ret == 0)
                 {
                     JiLu[x, y] = ' ';
-                    if ((x - 1) >= 0 && (y - 1) >= 0 && (x - 1) < Form1.x && (y - 1) < Form1.y && (JiLu[x - 1, y - 1] == '*'))
+                    if ((x - 1) >= 0 && (y - 1) >= 0 && (x - 1) < Mine.x && (y - 1) < Mine.y && (JiLu[x - 1, y - 1] == '*'))
                         play(x - 1, y - 1);
-                    if ((x - 1) >= 0 && (y) >= 0 && (x - 1) < Form1.x && (y) < Form1.y && (JiLu[x - 1, y] == '*'))
+                    if ((x - 1) >= 0 && (y) >= 0 && (x - 1) < Mine.x && (y) < Mine.y && (JiLu[x - 1, y] == '*'))
                         play(x - 1, y);
-                    if ((x - 1) >= 0 && (y + 1) >= 0 && (x - 1) < Form1.x && (y + 1) < Form1.y && (JiLu[x - 1, y + 1] == '*'))
+                    if ((x - 1) >= 0 && (y + 1) >= 0 && (x - 1) < Mine.x && (y + 1) < Mine.y && (JiLu[x - 1, y + 1] == '*'))
                         play(x - 1, y + 1);
-                    if ((x) >= 0 && (y - 1) >= 0 && (x) < Form1.x && (y - 1) < Form1.y && (JiLu[x, y - 1] == '*'))
+                    if ((x) >= 0 && (y - 1) >= 0 && (x) < Mine.x && (y - 1) < Mine.y && (JiLu[x, y - 1] == '*'))
                         play(x, y - 1);
-                    if ((x) >= 0 && (y + 1) >= 0 && (x) < Form1.x && (y + 1) < Form1.y && (JiLu[x, y + 1] == '*'))
+                    if ((x) >= 0 && (y + 1) >= 0 && (x) < Mine.x && (y + 1) < Mine.y && (JiLu[x, y + 1] == '*'))
                         play(x, y + 1);
-                    if ((x + 1) >= 0 && (y - 1) >= 0 && (x + 1) < Form1.x && (y - 1) < Form1.y && (JiLu[x + 1, y - 1] == '*'))
+                    if ((x + 1) >= 0 && (y - 1) >= 0 && (x + 1) < Mine.x && (y - 1) < Mine.y && (JiLu[x + 1, y - 1] == '*'))
                         play(x + 1, y - 1);
-                    if ((x + 1) >= 0 && (y) >= 0 && (x + 1) < Form1.x && (y) < Form1.y && (JiLu[x + 1, y] == '*'))
+                    if ((x + 1) >= 0 && (y) >= 0 && (x + 1) < Mine.x && (y) < Mine.y && (JiLu[x + 1, y] == '*'))
                         play(x + 1, y);
-                    if ((x + 1) >= 0 && (y + 1) >= 0 && (x + 1) < Form1.x && (y + 1) < Form1.y && (JiLu[x + 1, y + 1] == '*'))
+                    if ((x + 1) >= 0 && (y + 1) >= 0 && (x + 1) < Mine.x && (y + 1) < Mine.y && (JiLu[x + 1, y + 1] == '*'))
                         play(x + 1, y + 1);
                 }
                 else

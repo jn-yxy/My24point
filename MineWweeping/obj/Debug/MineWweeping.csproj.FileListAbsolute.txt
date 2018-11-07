@@ -12,9 +12,9 @@ D:\Code\MyCSharpHomework\MineWweeping\bin\Debug\MineWweeping.exe.config
 D:\Code\MyCSharpHomework\MineWweeping\bin\Debug\MineWweeping.exe
 D:\Code\MyCSharpHomework\MineWweeping\bin\Debug\MineWweeping.pdb
 D:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.csprojAssemblyReference.cache
-D:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.Form1.resources
 D:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.Properties.Resources.resources
 D:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.csproj.GenerateResource.cache
 D:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.csproj.CoreCompileInputs.cache
 D:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.exe
 D:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.pdb
+D:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.Mine.resources
