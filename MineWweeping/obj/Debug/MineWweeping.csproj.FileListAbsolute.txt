@@ -18,3 +18,13 @@ D:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.csproj.CoreCompileI
 D:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.exe
 D:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.pdb
 D:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.Mine.resources
+E:\Code\MyCSharpHomework\MineWweeping\bin\Debug\MineWweeping.exe.config
+E:\Code\MyCSharpHomework\MineWweeping\bin\Debug\MineWweeping.exe
+E:\Code\MyCSharpHomework\MineWweeping\bin\Debug\MineWweeping.pdb
+E:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.csprojAssemblyReference.cache
+E:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.Mine.resources
+E:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.Properties.Resources.resources
+E:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.csproj.GenerateResource.cache
+E:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.csproj.CoreCompileInputs.cache
+E:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.exe
+E:\Code\MyCSharpHomework\MineWweeping\obj\Debug\MineWweeping.pdb
