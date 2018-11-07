@@ -1,0 +1,8 @@
+D:\Code\heiheihei\MineWweeping\MineWweeping\bin\x64\BigStark\MineWweeping.exe.config
+D:\Code\heiheihei\MineWweeping\MineWweeping\bin\x64\BigStark\MineWweeping.exe
+D:\Code\heiheihei\MineWweeping\MineWweeping\obj\x64\BigStark\MineWweeping.csprojAssemblyReference.cache
+D:\Code\heiheihei\MineWweeping\MineWweeping\obj\x64\BigStark\MineWweeping.Form1.resources
+D:\Code\heiheihei\MineWweeping\MineWweeping\obj\x64\BigStark\MineWweeping.Properties.Resources.resources
+D:\Code\heiheihei\MineWweeping\MineWweeping\obj\x64\BigStark\MineWweeping.csproj.GenerateResource.cache
+D:\Code\heiheihei\MineWweeping\MineWweeping\obj\x64\BigStark\MineWweeping.csproj.CoreCompileInputs.cache
+D:\Code\heiheihei\MineWweeping\MineWweeping\obj\x64\BigStark\MineWweeping.exe
